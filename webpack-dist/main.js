@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(((t,e)=>{try{const t=new URL("https://example.com");return t}catch{return null}})())})();
