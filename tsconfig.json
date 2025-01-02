@@ -4,9 +4,5 @@
         "module": "Preserve",
         "moduleResolution": "Bundler",
         "strict": true,
-        "experimentalDecorators": true,
-        "useDefineForClassFields": false,
-        "isolatedModules": true,
-        "rootDir": ".",
     }
 }
